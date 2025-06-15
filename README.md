@@ -22,6 +22,6 @@ Both software environments on CBM and GCS use `Python version 3.10.1`.
   * piexif     1.1.3
 
 ## Result
-This video shows the real-time status of GCS receiving image information.
-[![Watch the video](https://github.com/jiahaubai/CBM/blob/main/images/video_cover.png)](https://drive.google.com/file/d/1-NkS1Z2yHKOuRpVHWrsqydOKQ0YYJnnV/view?usp=sharing)
+This [video](https://drive.google.com/file/d/1-NkS1Z2yHKOuRpVHWrsqydOKQ0YYJnnV/view?usp=sharing) shows the real-time status of GCS receiving image information.
+
 
