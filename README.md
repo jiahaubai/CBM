@@ -1,7 +1,7 @@
 # CBM
 The full name of CBM is Companion Board Module, which is a program placed on the RPi used to send data integrated with information from the RPi camera and Fly Controller to the Ground Control Station (GCS) via TCP.
 
-
+![image](https://github.com/jiahaubai/CBM/blob/main/images/idea.png)
 
 ## Tutorial: 
 Please refer to the following two PDF documents:
@@ -23,3 +23,5 @@ Both software environments on CBM and GCS use `Python version 3.10.1`.
 
 ## Result
 This video shows the real-time status of GCS receiving image information.
+[![Watch the video](https://github.com/jiahaubai/CBM/blob/main/images/video_cover.png)](https://drive.google.com/file/d/1-NkS1Z2yHKOuRpVHWrsqydOKQ0YYJnnV/view?usp=sharing)
+
